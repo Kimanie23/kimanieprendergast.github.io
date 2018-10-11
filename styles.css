@@ -1,0 +1,15 @@
+.container {
+	display: grid| grid;
+}
+
+
+.header {
+	grid: header;
+}
+
+.aside {
+	grid-area: sidebar;
+
+
+
+
